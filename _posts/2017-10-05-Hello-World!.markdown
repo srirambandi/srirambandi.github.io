@@ -1,6 +1,6 @@
 ---
 layout: post
-comment: true
+comments: true
 title:  "Hello, World!"
 excerpt: First Post
 date:   2017-10-05 18:12:09 +0530
