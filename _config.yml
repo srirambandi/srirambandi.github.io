@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Sri Ram Bandi's blog
 email: srirambandi.654@gmail.com
-description: "Amateur Archives"
+description: "Amateur Archive"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srirambandi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: srirambandi1
