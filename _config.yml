@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sri Ram Bandi's blog
-email: srirambandi.654@gmail.com
+email: sbandi@umass.edu
 description: "Amateur Archives"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srirambandi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: srirambandi1
+twitter_username: _srirambandi_
 github_username:  srirambandi
 facebook_username:  srirambandi
 
